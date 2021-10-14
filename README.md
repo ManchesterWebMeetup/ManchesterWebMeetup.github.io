@@ -1,5 +1,3 @@
-# Manchester Web Meetup
-
 Manchester Web Meetup is a group for passionate web developers to share knowledge and gain technical insights. Each month we present 2-3 speakers who discuss topics covering all things web, including HTML, CSS, JS (React, Vue, Node.js etc.), APIs, and cloud technologies (AWS, Serverless etc.).
 
 ____
